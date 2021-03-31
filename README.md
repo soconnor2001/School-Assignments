@@ -1,2 +1,2 @@
 # School-Assignments
- Code for assingment I did in school
+ Code for assingments I have done while in school.
