@@ -1,20 +1,15 @@
-# Local Search Assignment
+# Uninformed Search Assignment
+Given a grid of ones and zeros in gridFile.txt,
+perform a Breadth-First search and a Depth-First search of the grid.
+Zeros are open spaces, ones are walls.
+Put the path of each given search algorithm in a file, pathBFS.txt and pathDFS.txt respectively.
+Input the start and goal space for the search in the console.
 
-Use the simulated annealing algorithm to solve to n-quens puzzle. Use a heurisic function that measures the number of
-attacking queens as a cost function.  
-
-run the algorithm using the following values:
- - T_threshold = .9, decayRate = .000001,
- - T_threshold = .75, decayRate = .0000001,
- - T_threshold = .5, decayRate = .00000001
-    
-Do 10 trials for each value combination using a 4x4 grid.
-Then repeat that for an 8x8 grid and a 16x16 grid.  
-
-Print the initial and final board of each trial along with the initial and final h-value from the heuristic function
-## n-queens puzzle:
-Given a board of n by n squares, place n queens (from chess) so that none can attack each other
-
-## Other Notes
-Run the LocalSearch file for my code. The nqueens file was given to us to use to hand to puzzle part of the assignment.
-The focus of the assignment was on using the simulated annealing algorithm to solve to the puzzle.
+## gridFile.txt
+1 1 1 1 1 1 1 1
+1 0 0 0 1 1 1 1
+1 0 0 0 0 0 0 1
+1 1 1 0 0 1 0 1
+1 0 1 0 0 1 0 1
+1 0 0 0 0 0 0 1
+1 1 1 1 1 1 1 1
