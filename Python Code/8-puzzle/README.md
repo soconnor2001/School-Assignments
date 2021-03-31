@@ -2,16 +2,17 @@
 
 Create a new program to run A* on the 8-puzzle problem.
   8-puzzle is the puzzle where you have to slide squares around to try and complete the picture.
-  For this assignment we will use numbers instead of images
+  For this assignment we will use numbers instead of images.
 Run the algorithm with the following start and goal state pairs. The ‘0’ character represents the blank tile.
 
 ## puzzle 1
 Initial:
-````
-2 8 3
-1 6 4
-7 0 5
-````
+
+| 2 | 8 | 3 |
+| 1 | 6 | 4 |
+| 7 | 0 | 5 |
+
+
 Goal:   1 2 3
         8 6 4
         7 5 0
