@@ -8,9 +8,9 @@ Run the algorithm with the following start and goal state pairs. The ‘0’ cha
 ## puzzle 1
 Initial:
 
-| 2 | 8 | 3 |
-| 1 | 6 | 4 |
-| 7 | 0 | 5 |
+2 8 3  
+1 6 4  
+7 0 5  
 
 
 Goal:   1 2 3
