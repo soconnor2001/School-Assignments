@@ -6,10 +6,12 @@ Create a new program to run A* on the 8-puzzle problem.
 Run the algorithm with the following start and goal state pairs. The ‘0’ character represents the blank tile.
 
 ## puzzle 1
-Initial:2 8 3
-        1 6 4
-        7 0 5
-
+Initial:
+    
+2 8 3
+1 6 4
+7 0 5
+    
 Goal:   1 2 3
         8 6 4
         7 5 0
