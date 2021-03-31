@@ -6,10 +6,10 @@ Put the path of each given search algorithm in a file, pathBFS.txt and pathDFS.t
 Input the start and goal space for the search in the console.
 
 ## gridFile.txt
-1 1 1 1 1 1 1 1
-1 0 0 0 1 1 1 1
-1 0 0 0 0 0 0 1
-1 1 1 0 0 1 0 1
-1 0 1 0 0 1 0 1
-1 0 0 0 0 0 0 1
-1 1 1 1 1 1 1 1
+1 1 1 1 1 1 1 1  
+1 0 0 0 1 1 1 1  
+1 0 0 0 0 0 0 1  
+1 1 1 0 0 1 0 1  
+1 0 1 0 0 1 0 1  
+1 0 0 0 0 0 0 1  
+1 1 1 1 1 1 1 1  
