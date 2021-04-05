@@ -1,9 +1,9 @@
 # 8-Puzzle Assignment
 
-Create a new program to run A* on the 8-puzzle problem.
-  8-puzzle is the puzzle where you have to slide squares around to try and complete the picture.
-  For this assignment we will use numbers instead of images.
-Run the algorithm with the following start and goal state pairs. The ‘0’ character represents the blank tile.
+This was for my intro into AI class. I was supposed to reate a program to run the A* search algorithm on an 8-puzzle.
+8-puzzle is the puzzle where you have to slide squares around to try and complete the picture.
+For this assignment we used numbers instead of images.
+I ran the algorithm with the following start and goal state pairs. The ‘0’ character represents the blank tile.
 
 ## puzzle 1
 Initial:
