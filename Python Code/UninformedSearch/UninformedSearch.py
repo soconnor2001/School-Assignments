@@ -146,8 +146,10 @@ def uninformedSearch(grid, start, goal, method):
 
     while current.value != goal and len(openList) > 0:
         if BFS:
+            # mimics queue for DFS
             current = openList.pop(0)
         else:
+            # mimics stack for BFS
             current = openList.pop()
         current.expandNode(grid, closedList, openList)
         # print(openList)
