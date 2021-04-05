@@ -1,17 +1,15 @@
 # Local Search Assignment
 
-Use the simulated annealing algorithm to solve to n-quens puzzle. Use a heurisic function that measures the number of
-attacking queens as a cost function.  
+This assignement was for my intro to AI class. I was supposed to use the simulated annealing algorithm to solve to n-queens puzzle, using a heurisic function that measures the number of attacking queens as a cost function.  
 
-run the algorithm using the following values:
+I was then to run the algorithm using the following values:
  - T_threshold = .9, decayRate = .000001,
  - T_threshold = .75, decayRate = .0000001,
  - T_threshold = .5, decayRate = .00000001
     
-Do 10 trials for each value combination using a 4x4 grid.
-Then repeat that for an 8x8 grid and a 16x16 grid.  
+I then had to run 10 trials for each value combination using a 4x4 grid, and then repeat that for an 8x8 grid and a 16x16 grid.  
 
-Print the initial and final board of each trial along with the initial and final h-value from the heuristic function
+I lastly had to print the initial and final board of each trial along with the initial and final h-value from the heuristic function
 ## n-queens puzzle:
 Given a board of n by n squares, place n queens (from chess) so that none can attack each other
 
