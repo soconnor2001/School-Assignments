@@ -14,6 +14,6 @@ The game can be found at this repo: [Superstore Showdown](https://github.com/hco
 For this game, we could make what ever game we wanted. 
 After some brainstorming, we decided to make a beat 'em up type game starring a wizard who could shoot fireball and summon companions.
 For this game, while I did do the vast majority of the coding, I did get a bit of help from one of my groupmate with implementing some of the final sprites 
-so that I had time to focus of other things that needed to get coded.
+so that I had time to focus of other things that needed to get coded.  
 This game can be found at this repo (version 3 is the final version): [Arcane Assault](https://github.com/hcoconnor/ArcaneAssault)
 
